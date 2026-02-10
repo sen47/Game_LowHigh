@@ -16,4 +16,7 @@ const std::string errors[error::MAX]
 };
 
 bool checkRange(const std::int32_t answer, const std::int32_t min, const std::int32_t max);
+
 int getIntAnswerInRange(const std::string& output, const std::int32_t min, const std::int32_t max);
+
+char getCharAnswerInRange(const std::string& output, const char range[], const std::int16_t size);
