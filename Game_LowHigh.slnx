@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Game_LowHigh/Game_LowHigh.vcxproj" Id="65aa627e-4893-497d-8477-bdcf20af267a" />
+</Solution>
